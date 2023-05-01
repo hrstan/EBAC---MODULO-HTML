@@ -1,0 +1,24 @@
+ body{
+    background-color: rgb(119, 248, 130);
+    text-align: center
+
+ }
+ 
+ h1 {
+    color:rgb(26, 26, 26)
+        }
+h1{ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#voltar { 
+    text-align: left;
+}
+
+.inserir { 
+    color:rgba(255, 0, 0, 0.658)
+}
+
+* { 
+    color: rgb(0, 0, 0);
+}
